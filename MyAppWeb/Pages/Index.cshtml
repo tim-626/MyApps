@@ -1,0 +1,13 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    var lib = new MyLibEng.MyLibEng();
+    var str = lib.DoSomethingEng();
+}
+
+<h2>
+    @str
+</h2>
+
+<p>This Web App references <code><b>MyLibEng</b></code> but targets <code><b>net6.0-windows</b></code> (so can only be used on Windows machines).</p>

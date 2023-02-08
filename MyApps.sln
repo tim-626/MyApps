@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAppWPF", "MyAppWPF\MyAppWPF.csproj", "{A2FEABDB-AE75-47A1-9DE0-F6671EC3336C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAppWinForms", "MyAppWinForms\MyAppWinForms.csproj", "{FC60F370-16ED-4F25-95F0-A8DC21310A22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAppWeb", "MyAppWeb\MyAppWeb.csproj", "{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FEABDB-AE75-47A1-9DE0-F6671EC3336C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FEABDB-AE75-47A1-9DE0-F6671EC3336C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FEABDB-AE75-47A1-9DE0-F6671EC3336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FEABDB-AE75-47A1-9DE0-F6671EC3336C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC60F370-16ED-4F25-95F0-A8DC21310A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC60F370-16ED-4F25-95F0-A8DC21310A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC60F370-16ED-4F25-95F0-A8DC21310A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC60F370-16ED-4F25-95F0-A8DC21310A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3213AF74-0854-46B7-BBFC-1E963FCF0C31}
+	EndGlobalSection
+EndGlobal
