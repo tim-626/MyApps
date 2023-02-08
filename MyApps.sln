@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAppWinForms", "MyAppWinFo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAppWeb", "MyAppWeb\MyAppWeb.csproj", "{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLibEng", "MyLibEng\MyLibEng\MyLibEng.csproj", "{4072AFF0-014E-4E8E-B6B5-12809F3D3233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibWin", "MyLibWin\MyLibWin.csproj", "{D96B4B4C-F4CE-4539-9829-32B3344E3D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD96955-09C4-4F63-A602-6FDED2BF4AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4072AFF0-014E-4E8E-B6B5-12809F3D3233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4072AFF0-014E-4E8E-B6B5-12809F3D3233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4072AFF0-014E-4E8E-B6B5-12809F3D3233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4072AFF0-014E-4E8E-B6B5-12809F3D3233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96B4B4C-F4CE-4539-9829-32B3344E3D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96B4B4C-F4CE-4539-9829-32B3344E3D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96B4B4C-F4CE-4539-9829-32B3344E3D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96B4B4C-F4CE-4539-9829-32B3344E3D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
